@@ -1,0 +1,9 @@
+MC|What is the capital of France?|Paris|Paris;London;Berlin;Madrid
+TF|The sky is blue.|True
+SA|What is the chemical symbol for water?|H2O
+MC|Which planet is known as the Red Planet?|Mars|Mars;Venus;Earth;Jupiter
+TF|C++ is a low-level programming language.|False
+SA|Who is known as the father of computers?|Charles Babbage
+MC|What does HTTP stand for?|HyperText Transfer Protocol|HyperText Transfer Protocol;HyperText Transfer Product;HyperTool Transfer Protocol;HyperText Transmission Protocol
+TF|The Pacific Ocean is larger than the Atlantic Ocean.|True
+SA|What year did the Titanic sink?|1912
